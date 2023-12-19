@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891706824169",
+    "project_id": "projeto-brabo-36651",
+    "storage_bucket": "projeto-brabo-36651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891706824169:android:ad29c1736e9951835d6778",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vgxky_zdERcjDfEUGR4b9Z4GrUZQnSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891706824169:android:d3988cf3e4d951a35d6778",
+        "android_client_info": {
+          "package_name": "quizz.brabo.washington"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vgxky_zdERcjDfEUGR4b9Z4GrUZQnSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
